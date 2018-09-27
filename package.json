@@ -1,0 +1,52 @@
+{
+  "name": "my-app",
+  "version": "0.0.1",
+  "private": false,
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0",
+    "yarn": ">=1.0.0"
+  },
+  "main": "src/index.tsx",
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexdevero/react-typescript-webpack-boilerplate.git"
+  },
+  "keywords": [
+    "app",
+    "ES6",
+    "ES7",
+    "heroku",
+    "mobx",
+    "mobx-router",
+    "react",
+    "react-router",
+    "reactjs",
+    "web app",
+    "Webpack"
+  ],
+  "author": "Alex Devero <deveroalex@gmail.com> (http://github.com/alexdevero)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexdevero/react-typescript-webpack-boilerplate/issues"
+  },
+  "homepage": "",
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-scripts-ts": "2.17.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^23.3.2",
+    "@types/node": "^10.11.0",
+    "@types/react": "16.4.14",
+    "@types/react-dom": "16.0.7",
+    "typescript": "^2.9.2"
+  }
+}
