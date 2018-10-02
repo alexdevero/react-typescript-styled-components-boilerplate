@@ -1,7 +1,32 @@
 {
-  "name": "my-app",
+  "name": "react-typescript-webpack-boilerplate",
   "version": "0.0.1",
+  "description": "Minimal React, TypeScript and Styled-components app boilerplate.",
+  "license": "MIT",
   "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexdevero/react-typescript-webpack-boilerplate.git"
+  },
+  "homepage": "",
+  "bugs": {
+    "url": "https://github.com/alexdevero/react-typescript-webpack-boilerplate/issues"
+  },
+  "author": {
+    "name": "Alex Devero",
+    "url": "https://github.com/alexdevero"
+  },
+  "keywords": [
+    "app",
+    "ES6",
+    "ES7",
+    "react",
+    "react-router",
+    "reactjs",
+    "styled-components",
+    "web app",
+    "Webpack"
+  ],
   "engines": {
     "node": ">=10.0.0",
     "npm": ">=6.0",
@@ -14,29 +39,6 @@
     "test": "react-scripts-ts test --env=jsdom",
     "eject": "react-scripts-ts eject"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/alexdevero/react-typescript-webpack-boilerplate.git"
-  },
-  "keywords": [
-    "app",
-    "ES6",
-    "ES7",
-    "heroku",
-    "mobx",
-    "mobx-router",
-    "react",
-    "react-router",
-    "reactjs",
-    "web app",
-    "Webpack"
-  ],
-  "author": "Alex Devero <deveroalex@gmail.com> (http://github.com/alexdevero)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/alexdevero/react-typescript-webpack-boilerplate/issues"
-  },
-  "homepage": "",
   "dependencies": {
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
