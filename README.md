@@ -1,5 +1,5 @@
 ﻿<p align="center">
-  <img src="https://cdn.rawgit.com/alexdevero/react-typescript-styled-components-boilerplate/master/docs/react-typescript-styled-components-boilerplate-icon.png" width="500" align="center">
+  <img src="https://cdn.rawgit.com/alexdevero/react-typescript-styled-components-boilerplate/master/docs/react-typescript-webpack-boilerplate-icon.png" width="500" align="center">
   <br>
   <br>
 </p>
