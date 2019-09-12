@@ -1,6 +1,6 @@
 {
   "name": "react-typescript-styled-components-boilerplate",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Minimal React, TypeScript and Styled-components app boilerplate.",
   "license": "MIT",
   "private": false,
