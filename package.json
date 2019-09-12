@@ -40,8 +40,8 @@
     "eject": "react-scripts-ts eject"
   },
   "dependencies": {
-    "react": "^16.5.2",
-    "react-dom": "^16.5.2",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
     "react-scripts-ts": "3.1.0",
     "styled-components": "^3.4.9"
   },
