@@ -1,32 +1,14 @@
 ﻿<p align="center">
-  <img src="https://cdn.rawgit.com/alexdevero/react-typescript-styled-components-boilerplate/master/docs/react-typescript-webpack-boilerplate-icon.png" width="500" align="center">
-  <br>
-  <br>
+  <img src="https://cdn.rawgit.com/lordnox/react-typescript-styled-components-boilerplate/master/docs/react-typescript-webpack-boilerplate-icon.png" width="500" align="center">
 </p>
 
 <p align="center">
-  <!--
-  ### Status
-  [![Build Status](https://circleci.com/gh/alexdevero/react-typescript-styled-components-boilerplate.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/alexdevero/react-typescript-styled-components-boilerplate/)
-  -->
-  <a href="https://david-dm.org/alexdevero/react-typescript-styled-components-boilerplate">
-    <img alt="Dependency Status" src="https://badgen.net/david/dep/alexdevero/react-typescript-styled-components-boilerplate.svg?style=flat">
-  </a>
-
-  <a href="https://david-dm.org/alexdevero/react-typescript-styled-components-boilerplate?type=dev">
-    <img alt="devDependency Status" src="https://badgen.net/david/dev/alexdevero/react-typescript-styled-components-boilerplate/dev-status.svg?style=flat">
-  </a>
-
   <a href="#">
-    <img alt="Releases" src="https://img.shields.io/github/release/alexdevero/react-typescript-styled-components-boilerplate.svg">
+    <img alt="Releases" src="https://img.shields.io/github/release/lordnox/react-typescript-styled-components-boilerplate.svg">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://alexdevero.com">
-    <img alt="Built by DEVERO" src="https://badgen.net/badge/build%20by/DEVERO/d30320" />
-  </a>
-
   <a href="http://opensource.org/licenses/MIT">
     <img alt="MIT License" src="https://badgen.net/badge/license/MIT/green">
   </a>
@@ -38,18 +20,18 @@ Minimal React, TypeScript and Styled-components web app boilerplate.
 
 ### Table of contents
 
-* [Install](#install)
-* [Usage](#usage)
-* [Support this project](#support-this-project)
-* [Code of Conduct](#code-of-conduct)
-* [License](#license)
+- [Install](#install)
+- [Usage](#usage)
+- [Support this project](#support-this-project)
+- [Code of Conduct](#code-of-conduct)
+- [License](#license)
 
 ### Install
 
 #### Clone this repo
 
 ```
-$ git clone https://github.com/alexdevero/react-typescript-styled-components-boilerplate.git
+$ git clone https://github.com/lordnox/react-typescript-styled-components-boilerplate.git
 ```
 
 #### Install dependencies
@@ -57,7 +39,9 @@ $ git clone https://github.com/alexdevero/react-typescript-styled-components-boi
 ```
 yarn
 ```
+
 or
+
 ```
 npm install
 ```
@@ -69,7 +53,9 @@ npm install
 ```
 yarn start
 ```
+
 or
+
 ```
 npm start
 ```
@@ -79,7 +65,9 @@ npm start
 ```
 yarn run build
 ```
+
 or
+
 ```
 npm run build
 ```
@@ -89,7 +77,9 @@ npm run build
 ```
 yarn test
 ```
+
 or
+
 ```
 npm test
 ```
@@ -100,10 +90,7 @@ npm test
 
 Development and maintenance of this project takes a lot of time. If you want to support this project and help its author, there are few ways you can do it:
 
- - Starring and sharing the project
- - [![Donate](https://img.shields.io/badge/Donate-Paypal-brightgreen.svg?colorB=259cd2)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YKLGUUB34ASEL)—make one-time donations via PayPal.
- - [![Donate](https://img.shields.io/badge/Donate-Patreon-brightgreen.svg?colorB=f86213)](https://www.patreon.com/alexdevero)—set up monthly donation via Patreon and get interesting news about what I'm doing.
- - <img alt="Releases" src="https://img.shields.io/badge/Donate-Bitcoin-brightgreen.svg?colorB=fab915">—send bitcoins or ethereum to this address: `19jHGagJWeVvuNjN3kaBoAszXd9ea9gKzp`.
+- Starring and sharing the project
 
 Thank you!
 
@@ -113,4 +100,4 @@ Thank you!
 
 ### License
 
-MIT © [Alex Devero](https://alexdevero.com).
+MIT © [Alex Devero](https://tobias.kopelke.online).
