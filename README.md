@@ -100,4 +100,4 @@ Thank you!
 
 ### License
 
-MIT © [Alex Devero](https://tobias.kopelke.online).
+MIT © [Tobias Kopelke](https://tobias.kopelke.online).
