@@ -91,6 +91,7 @@ npm test
 Development and maintenance of this project takes a lot of time. If you want to support this project and help its author, there are few ways you can do it:
 
 - Starring and sharing the project
+- Participating 🤓
 
 Thank you!
 
